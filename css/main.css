@@ -1,0 +1,107 @@
+/* General */
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Navigation*/
+
+nav {
+    height: 70px;
+}
+
+img.logo {
+    width: 220px;
+    margin-top: -13px;
+}
+
+.burger {
+    float: right;
+    margin-top: 15px;
+    margin-right: 5px;
+}
+
+.menu {
+    float: right;
+    text-align: right;
+}
+
+.menu li {
+    display: inline-block;
+    height:  56px;
+    padding: 20px 10px;
+}
+
+.menu a {
+    color: #949493;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    color: #fff;
+}
+
+/* Header */
+
+header {
+    text-align: center;
+}
+
+img.banner {
+    width: 100%;
+}
+
+/* About / Contact us */
+
+.we-do {
+    padding: 50px;
+    float: left;
+    text-align: center;
+    margin: 25px 0px;
+}
+
+.contact-us {
+    padding: 50px;
+    float: right;
+    text-align: center;
+    margin: 30px 0px;
+}
+
+button.about {
+    background-color: #ff535a;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 7px;
+    font-size: 18px;
+}
+
+/* Products Section*/
+img.products {
+    width: 180px;
+}
+
+.tech-products, .women-products, .men-products {
+    display: inline-block;
+    text-align: center;
+}
+
+button.buy {
+    background-color: white;
+    padding: 10px 15px;
+    border-radius: 7px;
+    color: #24292e;
+    border: 1px solid  #949493;
+}
+
+
+/*Footer*/
+
+footer {
+    height: 20px;
+    background-color: #343a40;
+    text-align: center;
+    color: white;
+    padding: 2em;
+}
+
+
