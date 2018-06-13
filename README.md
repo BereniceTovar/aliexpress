@@ -16,3 +16,5 @@ En este ejercicio se toma como base la página Aliexpress para aplicar los conce
 ![Página Aliexpress Reto](assets/images/mobile2.png)
 
 
+
+
