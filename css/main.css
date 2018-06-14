@@ -33,12 +33,12 @@ img.logo {
 }
 
 .menu a {
-    color: #949493;
+    color: #404040;
     text-decoration: none;
 }
 
 .menu a:hover {
-    color: #fff;
+    color: #ee564a;
 }
 
 /* Header */
@@ -73,6 +73,18 @@ button.about {
     padding: 10px 15px;
     border-radius: 7px;
     font-size: 18px;
+}
+
+img.coupon {
+    margin: 15px;
+    width: 70%;
+    align-items: center;
+}
+
+/*Advertising Section*/
+
+img.banner2 {
+    width: 100%;
 }
 
 /* Products Section*/
