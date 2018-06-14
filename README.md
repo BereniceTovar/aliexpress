@@ -13,7 +13,9 @@ En este ejercicio se toma como base la página Aliexpress para aplicar los conce
 
 ## Visualización mobile
 ![Página Aliexpress Mobile Reto](assets/images/mobile1.png)
+
 ![Página Aliexpress Mobile Reto](assets/images/mobile2.png)
+
 ![Página Aliexpress Mobile Reto](assets/images/mobile3.png)
 
 
